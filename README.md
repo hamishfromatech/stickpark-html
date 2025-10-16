@@ -2,7 +2,6 @@
 
 A thrilling 2D parkour platformer game built with pure HTML, CSS, and JavaScript. Master the art of stickman parkour through challenging levels filled with jumps, wall runs, and time trials!
 
-![Game Screenshot](https://via.placeholder.com/800x400/87CEEB/000000?text=StickPark+HTML+Screenshot)
 
 ## 🎮 Features
 
